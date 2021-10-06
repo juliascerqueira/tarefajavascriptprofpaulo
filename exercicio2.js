@@ -1,8 +1,8 @@
 var notaum = 5
 var notadois = 10
 var notatres = 20
-var maior = 0
-var menor = 0
+var maior, menor
+
 
 if (notaum > notadois){
     maior = notaum
@@ -43,5 +43,10 @@ else{
         console.log("A menor nota é a terceira nota de valor igual a "+ notatres)
     }
 }
+
+
+// Código realizado pelo professor:
+
+
 
 
